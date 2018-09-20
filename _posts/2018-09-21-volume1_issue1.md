@@ -3,7 +3,7 @@ layout: post
 title: "Volume 1, Issue 1"
 author: ""
 image: moldowan.jpg
-external_site: /pages/oops.md
+external_site: /pages/oops.html
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
