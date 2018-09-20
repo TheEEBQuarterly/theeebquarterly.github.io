@@ -3,7 +3,7 @@ layout: misc
 title: Who We Are
 ---
 
-## __Editor in chief__
+## __Editor-in-chief__
 
 Sean Anderson (seanas.anderson@mail.utoronto.ca)
 
