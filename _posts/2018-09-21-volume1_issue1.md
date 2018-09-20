@@ -3,7 +3,7 @@ layout: post
 title: "Volume 1, Issue 1"
 author: ""
 image: moldowan.jpg
-external_link: /pages/oops.md
+external_link: theeebquarterly.github.io/pages/oops.md
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
