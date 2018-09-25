@@ -15,6 +15,7 @@ menu:
 - {name: 'Getting Involved', folder: 'pages', file: 'getting_involved.html'}
 - {name: 'Who We Are', folder: 'pages', file: 'who_we_are.html'}
 - {name: 'Resources', folder: 'pages', file: 'language_and_resources.html'}
+- {name: 'Addendum', folder: 'pages', file: 'addendum.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
