@@ -59,3 +59,48 @@ American Toad (Anaxyrus americanus)
 
 ## Rowshyra Castenada:
 Seining in Algonquin Park, Canada
+
+## Patrick Moldowan:
+
+Sunny Lake, within the Wildlife Research Area of Algonquin Provincial Park, is a stunning
+summer sight to behold. With turtles, leeches and fishes below the surface; watershield, lilies,
+waterfowl and frogs floating at the surface; and salamanders and songbirds in the surrounding
+forest, Sunny Lake is an ecologist's paradise. It is no surprise then that Sunny Lake is a 'legacy
+site', home to turtles from the 46-year mark-recapture study based at the Algonquin Wildlife
+Research Station, with EEB Professor Njal Rollinson as a project collaborator.
+Sunny Lake, Wildlife Research Area, Algonquin Provincial Park (15 July 2011).
+
+## Lauren Jarvis:
+
+Photo from Chibow Lake near Blind River, ON. I was gillnetting in northern Ontario with the
+ministry of natural resources' broadscale monitoring (BsM) program, collecting fish (walleye,
+northern pike, cisco, yellow perch) muscle tissue for stable isotope analysis.
+
+## Haoran Xue:
+
+Meadow at the Koffler Scientific Reserve (KSR) at Jokers Hill.
+
+## Daniel Gillis:
+
+The photo of the red pine was taken at the lookout from Booth's Rock in Algonquin Park,
+overlooking Rock Lake on a hike with my sister and her boyfriend. Both of these photos were
+taken in August 2017.
+
+## Haoran Xue:
+
+Flowers at KSR.
+
+## Kennedy Bucci:
+
+Evening view of the pond at KSR.
+
+## Courtney Leermakers:
+
+I am entering my first year of my M.Sc. EEB, and over this summer I started collecting data with
+the Toronto Zoo. I got to check baited hoop traps, radio track, and road survey for turtles as part
+of my project in Nick Mandrak and Marc Cadotte's lab. We are working alongside the Zoo on a
+road ecology project to assess the mitigation success for an Eco passage to be installed. In this
+photo you can see an adorable little painted turtle that was an opportunistic find when I noticed it
+basking on a log. We measured carapace length and width, plastron length and width, height, and
+we weighed this individual. Normally we would also notch and PIT tag the turtle, however this
+one was too small.
