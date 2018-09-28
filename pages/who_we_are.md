@@ -12,7 +12,7 @@ Sean Anderson (seanas.anderson@mail.utoronto.ca)
 * Viviana Astudillo-Clavijo
 * Kate Brown
 * Kennedy Bucci
-* Rowshyra Casteneda
+* Rowshyra Castaneda
 * Timothy Fernandes
 * Lauren Jarvis
 * Tyler Kent
