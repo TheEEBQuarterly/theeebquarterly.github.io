@@ -57,7 +57,7 @@ Climate Warming Array at Koffler Scientific Reserve at Jokers Hill.
 
 American Toad (Anaxyrus americanus)
 
-## Rowshyra Castenada:
+## Rowshyra Castaneda:
 Seining in Algonquin Park, Canada
 
 ## Patrick Moldowan:
