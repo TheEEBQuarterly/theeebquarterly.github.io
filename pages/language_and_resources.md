@@ -33,3 +33,8 @@ PDF:  http://richardcolby.net/writ2000/wp-content/uploads/2017/09/Bird-by-Bird-
 
 3. Most of us have our favourite science-related outlets. Try reading a few of your favourite articles and thinking about what makes them work. Check out this link to an index of the first 10 editions of The Best American Science and Nature Writing series - these are not PDFs of the books, but they contain links to most of the original articles.
 http://bachlab.balbach.net/basnw.html
+
+4. The Open Notebook is a not-for-profit group that curates and shares professional tips and resources for science journalists. The info here is invaluable for anyone interested in writing about science for the public. The website includes notes on craft, break-downs on writing the process by professional science journalists, a database of successful story pitches for you to emulate, and much more.
+https://www.theopennotebook.com/
+
+
