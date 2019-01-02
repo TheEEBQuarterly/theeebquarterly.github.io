@@ -20,3 +20,4 @@ Sean Anderson (seanas.anderson@mail.utoronto.ca)
 * Julia Kreiner
 * James Santangelo
 * Juan Vargas Soto
+* Clara Thaysen
