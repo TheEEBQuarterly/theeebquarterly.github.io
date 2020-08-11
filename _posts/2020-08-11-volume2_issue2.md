@@ -2,7 +2,7 @@
 layout: post
 title: "Volume 2, Issue 2"
 author: ""
-image: COVID.jpg
+image: Zoom.png
 external_site: https://drive.google.com/file/d/1DriZxHg1r_Fo6KNm26Sn-Rm6ufFR81G5/view?usp=sharing
 ---
 
