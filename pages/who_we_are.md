@@ -5,19 +5,24 @@ title: Who We Are
 
 ## __Editor-in-chief__
 
-Sean Anderson (seanas.anderson@mail.utoronto.ca)
+Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 
 ## __Editorial board__
 
-* Viviana Astudillo-Clavijo
-* Kate Brown
+* Sean Anderson (Founding Editor)
 * Kennedy Bucci
-* Rowshyra Castaneda
 * Timothy Fernandes
+* Bonnie Hamilton
 * Lauren Jarvis
 * Tyler Kent
+* Natalia Sandoval Herrera
+* Juan Vargas Soto
+
+##__Past members__
+
+* Viviana Astudillo-Clavijo
+* Kate Brown
+* Rowshyra Castaneda
 * Devin Kirk
 * Julia Kreiner
 * James Santangelo
-* Juan Vargas Soto
-* Clara Thaysen
