@@ -9,20 +9,33 @@ Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 
 ## __Editorial board__
 
-* Sean Anderson (Founding Editor)
-* Kennedy Bucci
-* Timothy Fernandes
-* Bonnie Hamilton
-* Lauren Jarvis
-* Tyler Kent
-* Natalia Sandoval Herrera
-* Juan Vargas Soto
+### __Head Layout Editors__
 
-##__Past members__
+* Kennedy Bucci
+* Bonnie Hamilton
+* Natalia Sandoval Herrera
+
+### __Head Copy Editors__
+
+* Juan Vargas Soto
+* Lauren Jarvis
+
+### __Head Newsletter Editors__
+
+* Sean Anderson (Founding Editor)
+* Timothy Fernandes
+* Tyler Kent
+
+## __Webmaster__
+
+* Tyler Kent
+
+## __Previous Editors__
 
 * Viviana Astudillo-Clavijo
 * Kate Brown
 * Rowshyra Castaneda
 * Devin Kirk
 * Julia Kreiner
+* Christopher Reid
 * James Santangelo
