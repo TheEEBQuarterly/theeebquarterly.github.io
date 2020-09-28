@@ -7,6 +7,8 @@ title: Who We Are
 
 Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 
+<br />
+
 ## __Editorial board__
 
 ### __Head Layout Editors__
@@ -26,9 +28,13 @@ Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 * Timothy Fernandes
 * Tyler Kent
 
+<br />
+
 ## __Webmaster__
 
 * Tyler Kent
+
+<br />
 
 ## __Previous Editors__
 
