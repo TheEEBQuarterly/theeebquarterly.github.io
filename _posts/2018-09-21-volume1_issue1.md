@@ -3,7 +3,7 @@ layout: post
 title: "Volume 1, Issue 1"
 author: ""
 image: moldowan.jpg
-external_site: https://drive.google.com/file/d/1CBUh4-7aBG1sR0IiDOSZLyQMV1nYCPnZ/view?usp=sharing
+external_site: https://drive.google.com/file/d/1wIFObdv0aFgWtf49HKX8V3N1zsJRH37Y/view?usp=sharing
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
