@@ -5,7 +5,7 @@ title: Getting Involved
 
 ## __How to get involved as a writer__
 
-We solicit essay commitments at approximately two months prior to publication (December, May). At this point, interested grad students are invited to sign up to write an essay for the following issue under one of the four continuously-running essay categories (see below).
+We solicit essay commitments approximately two months prior to publication (December, May). At this point, interested grad students are invited to sign up to write an essay for the following issue under one of the four continuously-running essay categories (see below).
 Alternatively, students can (and are encouraged to!) pitch their own ideas for an essay or written piece. Feature slots are filled on a first-come, first-served basis. Submissions come in various sizes – 500 word blurbs and 5000 word essays are both welcome. So start thinking about what you’d like to write!
 
 ### __ESSAY AND FEATURE CATEGORIES:__
