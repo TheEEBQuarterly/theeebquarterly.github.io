@@ -26,7 +26,7 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 * Lucas Albano
 * Timothy Fernandes
 
-### Associate Copy Editors__
+### __Associate Copy Editors__
 * Hana Fahim
 * Jaime Grimm
 * Brett Sudden
