@@ -5,7 +5,7 @@ title: Getting Involved
 
 ## __How to get involved as a writer__
 
-We solicit essay commitments at the end of each publication month (September, December, March, and June). At this point, interested grad students are invited to sign up to write an essay for the following issue under one of the four continuously-running essay categories (see below).
+We solicit essay commitments at approximately two months prior to publication (December, May). At this point, interested grad students are invited to sign up to write an essay for the following issue under one of the four continuously-running essay categories (see below).
 Alternatively, students can (and are encouraged to!) pitch their own ideas for an essay or written piece. Feature slots are filled on a first-come, first-served basis. Submissions come in various sizes – 500 word blurbs and 5000 word essays are both welcome. So start thinking about what you’d like to write!
 
 ### __ESSAY AND FEATURE CATEGORIES:__
@@ -45,9 +45,9 @@ Finally, there is a bit more to science than standing in beautiful places. If yo
 
 ### __For Artists:__
 
-Our department is fortunate to have an unusual number of gifted artists. We will accept submissions of images on virtually any subject matter - it does not have to relate to nature or science. We simply want to showcase the talent and vision of department members. Please submit in RAW or jpeg format with highest resolution possible to seanas.anderson@mail.utoronto.ca
+Our department is fortunate to have an unusual number of gifted artists. We will accept submissions of images on virtually any subject matter - it does not have to relate to nature or science. We simply want to showcase the talent and vision of department members. Please submit in RAW or jpeg format with highest resolution possible to vm.zhang@mail.utoronto.ca
 
 
 ## __How to get involved as an editor__
 
-Interested students can sign on to volunteer as editors during the Spring EGSA meeting.
+Interested students can sign on to volunteer as editors during the Fall EGSA meeting, or they can email the EIC at vm.zhang@mail.utoronto.ca.

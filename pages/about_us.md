@@ -38,15 +38,8 @@ The Newsletter portion is the responsibility of the volunteer editors. Toward th
 each quarter, the editors meet to pitch newsletter segments, decide on which segments to run, and
 make segment assignments.
 
-For the features portion, essays and book reviews are submitted by student writers. We solicit
-essay commitments at the end of each publication month (September, December, March, June)
-by email. Interested students are encouraged to respond promptly to secure an essay slot. Each
-piece is due at the beginning of the publication month (i.e. 1 st of September for the Fall issue).
-After this, our aim is to have a one-week turnaround on edits. Unlike with scientific manuscripts,
-essay writers will not necessarily have to submit revisions; small-scale revisions will be made by
-editors unless authors request to make their own. For larger-scale changes, authors will be
-contacted by the editor with recommendations. See the Get Involved page for more details on
-essay categories.
+For the Features portion, essays and book reviews are submitted by student writers. We solicit
+essay commitments at the end of each publication month (December, May) by email. Interested students are encouraged to respond promptly to secure an essay slot. Each piece is due one month prior to publication (i.e., 1st of November for the Fall/Winter issue). After this, our aim is to have a one-week turnaround on edits. Unlike with scientific manuscripts, essay writers will not necessarily have to submit revisions; small-scale revisions will be made by editors unless authors request to make their own. For larger-scale changes, authors will be contacted by the editor with recommendations. See the Get Involved page for more details on essay categories.
 
 Calls for photography and art submissions are made approximately one month before publication
 date, but we will accept submissions at any time throughout the year.

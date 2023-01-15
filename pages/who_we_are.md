@@ -4,8 +4,7 @@ title: Who We Are
 ---
 
 ## __Editor-in-chief__
-
-Clara Thaysen (clara.thaysen@mail.utoronto.ca)
+Vicki Zhang (vm.zhang@mail.utoronto.ca)
 
 <br />
 
@@ -13,20 +12,33 @@ Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 
 ### __Head Layout Editors__
 
-* Kennedy Bucci
-* Bonnie Hamilton
-* Natalia Sandoval Herrera
+* Asawari Albal
+* Emma Walker
+
+### __Associate Layout Editors__
+* Hana Fahim
+* Ella Martin
+* Chloe Melo-Gavin
+
 
 ### __Head Copy Editors__
 
-* Juan Vargas Soto
-* Lauren Jarvis
+* Lucas Albano
+* Timothy Fernandes
+
+### Associate Copy Editors__
+* Hana Fahim
+* Jaime Grimm
+* Brett Sudden
+* Adeena Zahid
+
 
 ### __Head Newsletter Editors__
+* Madeline Jarvis-Cross
 
-* Sean Anderson (Founding Editor)
-* Timothy Fernandes
-* Tyler Kent
+
+### __Associate Newsletter Editors__
+* Chloe Melo-Gavin
 
 <br />
 
@@ -38,10 +50,20 @@ Clara Thaysen (clara.thaysen@mail.utoronto.ca)
 
 ## __Previous Editors__
 
+* Sean Anderson (Founding Editor)
 * Viviana Astudillo-Clavijo
 * Kate Brown
+* Kennedy Bucci
 * Rowshyra Castaneda
+* Bonnie Hamilton
+* Natalia Sandoval Herrera
+* Lauren Jarvis
 * Devin Kirk
 * Julia Kreiner
 * Christopher Reid
 * James Santangelo
+* Juan Vargas Soto
+* Clara Thaysen
+
+<br />
+
