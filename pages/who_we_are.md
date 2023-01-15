@@ -15,30 +15,24 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 * Asawari Albal
 * Emma Walker
 
-### __Associate Layout Editors__
-* Hana Fahim
-* Ella Martin
-* Chloe Melo-Gavin
-
 
 ### __Head Copy Editors__
 
 * Lucas Albano
 * Timothy Fernandes
 
-### __Associate Copy Editors__
-* Hana Fahim
-* Jaime Grimm
-* Brett Sudden
-* Adeena Zahid
-
 
 ### __Head Newsletter Editors__
 * Madeline Jarvis-Cross
 
 
-### __Associate Newsletter Editors__
+### __Associate Editors__
+* Hana Fahim
+* Jaime Grimm
+* Ella Martin
 * Chloe Melo-Gavin
+* Brett Sudden
+* Adeena Zahid
 
 <br />
 
