@@ -27,6 +27,7 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 
 
 ### __Associate Editors__
+* Irtaqa Arif
 * Hana Fahim
 * Jaime Grimm
 * Ella Martin
