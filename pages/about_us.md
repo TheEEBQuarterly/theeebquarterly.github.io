@@ -17,11 +17,7 @@ information most relevant to us, the students of EEB, and to celebrate the achie
 personalities of our department members.
 2. The Features section allows graduate students to publicly express their original ideas on
 tropics related to EEB and the scientific community in the form of essays and reviews; its
-purpose is to provide an outlet for students to practice non-technical science writing and build
-their portfolios. Think of this as a friendly environment in which to sharpen your writing skills. If
-you like to think and write about science or nature, writing for the EEB Quarterly gives you
-built-in access to an interested audience and the opportunity for both feedback and a line on your
-CV.
+purpose is to provide an outlet for students to practice non-technical science writing and build their portfolios. Think of this as a friendly environment in which to sharpen your writing skills. If you like to think and write about science or nature, writing for the EEB Quarterly gives you built-in access to an interested audience and the opportunity for both feedback and a line on your CV.
 
 Throughout both sections, we highlight artwork and photography by EEB graduate students.
 
