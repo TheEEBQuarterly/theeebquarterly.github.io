@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Introducing <i>The EEB Quarterly</i>
+title: "Introducing <i>The EEB Quarterly</i>"
 ---
 
 The EEB Quarterly is a digital publication in the style of a general-interest magazine made by
