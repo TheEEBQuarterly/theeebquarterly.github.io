@@ -4,7 +4,7 @@ title: "Introducing <i>The EEB Quarterly</i>"
 ---
 
 The EEB Quarterly is a digital publication in the style of a general-interest magazine made by
-and for graduate students in the department of Ecology and Evolutionary Biology at the
+and for graduate students in the Department of Ecology and Evolutionary Biology at the
 University of Toronto. The Quarterly consists of a Newsletter and a Features portion. Our
 mission is two-fold:
 
