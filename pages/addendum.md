@@ -3,6 +3,10 @@ title: Addendum
 layout: misc
 ---
 
+# Volume 5, Issue 1
+Following comments from EEB department members, changes were made to the Editor’s Letter on page 5 regarding the Israel-Hamas war. Please ensure that the most up-to-date and fact-checked versions are downloaded and viewed. 
+
+
 # Volume 1, Issue 1
 
 Below are photo credits and descriptions for pages 28-29, the field work world map.
