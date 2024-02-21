@@ -11,12 +11,14 @@ Several changes were made to the Editor's Letter (page 5) after the initial rele
 
 *As I write this, it has been 100 days since Israel began its war on Gaza. 100 days of inhuman destruction. 100 days of Palestinian displacement. 100 days of civilian strikes. The brutal loss of life is staggering.
 ...
-
-I would be remiss to not mention that it has also been 100 days of increased anti-semitism. Racialand ethnic hatred is what leads to these atrocities on a massive scale.*
+I would be remiss to not mention that it has also been 100 days of increased anti-semitism. Racial
+and ethnic hatred is what leads to these atrocities on a massive scale.*
 
 ## Version 2 (changes on paragraphs 2 and 4)
 
-*As I write this, it has been 100 days since the Israel-Hamas conflict began. 100 days of inhumandestruction. 100 days of Palestinian displacement. 100 days of civilian strikes. The brutal loss of lifeis staggering.
+*As I write this, it has been 100 days since the Israel-Hamas conflict began. 100 days of inhuman
+destruction. 100 days of Palestinian displacement. 100 days of civilian strikes. The brutal loss of life
+is staggering.
 ...
 I would be remiss to not mention that it has also been 100 days of increased anti-semitism, 100 days since over a thousand Israelis and foreign nationalities were murdered, and 100 days since hostages have been kidnapped from their homes. Racial and ethnic hatred is what leads to these atrocities on a massive scale.*
 
