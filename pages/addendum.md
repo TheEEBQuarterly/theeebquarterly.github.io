@@ -22,6 +22,9 @@ is staggering.
 ...
 I would be remiss to not mention that it has also been 100 days of increased anti-semitism, 100 days since over a thousand Israelis and foreign nationalities were murdered, and 100 days since hostages have been kidnapped from their homes. Racial and ethnic hatred is what leads to these atrocities on a massive scale.*
 
+## Version 3
+
+Published in the issue.
 
 # Volume 1, Issue 1
 
