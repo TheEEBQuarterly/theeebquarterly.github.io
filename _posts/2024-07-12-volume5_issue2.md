@@ -2,7 +2,7 @@
 layout: post
 title: "Volume 5, Issue 2"
 author: ""
-image: bison.JPG
+image: bison.jpg
 external_site: 
 ---
 
