@@ -48,7 +48,7 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 
 * Asawari Albal
 * Lucas Albano
-* Sean Anderson (Founding Editor)
+* Sean Anderson (Founding Editor) 
 * Viviana Astudillo-Clavijo
 * Kate Brown
 * Kennedy Bucci
@@ -63,9 +63,11 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 * Christopher Reid
 * James Santangelo
 * Juan Vargas Soto
-* Clara Thaysen
+* Clara Thaysen †
 * Emma Walker
 * Adeena Zahid
+
+† Previous Editors-in-Chief 
 
 <br />
 
