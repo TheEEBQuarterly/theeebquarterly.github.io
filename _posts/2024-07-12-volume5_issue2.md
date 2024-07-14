@@ -3,7 +3,7 @@ layout: post
 title: "Volume 5, Issue 2"
 author: ""
 image: bison.jpg
-external_site: https://drive.google.com/file/d/1RZoBYoE-vr3eY7rYg25h5CjWLQoP6Ytr/view?usp=sharing
+external_site: https://drive.google.com/file/d/134z9Moqbs8-nTYR51xFOoGys9-zapBXk/view?usp=sharing
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
