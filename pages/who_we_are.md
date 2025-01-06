@@ -4,7 +4,7 @@ title: Who We Are
 ---
 
 ## __Editor-in-chief__
-Vicki Zhang (vm.zhang@mail.utoronto.ca)
+Ella Martin (ella.martin@mail.utoronto.ca)
 
 <br />
 
@@ -12,40 +12,46 @@ Vicki Zhang (vm.zhang@mail.utoronto.ca)
 
 ### __Head Layout Editors__
 
-* Ella Martin
+* Hannah Bodmer
 
 
 ### __Head Copy Editors__
 
-* Brett Sudden
+* Sherry Du
 
 ### __Head Newsletter Editors__
 
 * Irtaqa Arif
-* Jaime Grimm
-* Madeline Jarvis-Cross
-* Mete Yuksel
-
 
 ### __Associate Editors__
 
-* Haider Alsafar
-* Julia Boyle
-* Sherry Du
-* Tom Dudgeon
-* Farhan Majumder
+* Vicki Zhang †
 * Ellen Nikelski
+* Nicole Gutierrez Ramos
+* Candace Ma
+* Hayden Fargo
+* Grace Walker Mitchell
+* Samantha Ramphal
+* Maia Dall'Acqua
 
 <br />
 
 ## __Webmaster__
 
-* Vicki M. Zhang
+* Ella Martin
 
 <br />
 
 ## __Previous Editors__
 
+* Brett Sudden
+* Jaime Grimm
+* Madeline Jarvis-Cross
+* Mete Yuksel
+* Haider Alsafar
+* Julia Boyle
+* Tom Dudgeon
+* Farhan Majumder
 * Asawari Albal
 * Lucas Albano
 * Sean Anderson (Founding Editor) 
