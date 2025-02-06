@@ -8,4 +8,4 @@ external_site: https://utoronto-my.sharepoint.com/:b:/g/personal/ella_martin_uto
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
 
-Volume 5, Issue 2 is coming. It will be right here shortly.
+Volume 6, Issue 1 is coming. It will be right here shortly.
