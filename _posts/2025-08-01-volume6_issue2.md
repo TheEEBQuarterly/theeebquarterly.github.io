@@ -3,7 +3,7 @@ layout: post
 title: "Volume 6, Issue 2"
 author: ""
 image: fieldwork.jpeg
-external_site: https://drive.google.com/file/d/1IRWhGQ30M8l-ph4J_Mn0qv7_smqy5Z70/view?usp=drive_link
+external_site: https://drive.google.com/file/d/1ckd0wAzHgShB4EJKQWtfxELn7A2074NM/view?usp=drive_link
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
