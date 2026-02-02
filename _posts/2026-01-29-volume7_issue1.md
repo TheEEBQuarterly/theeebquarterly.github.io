@@ -3,7 +3,7 @@ layout: post
 title: "Volume 7, Issue 1"
 author: ""
 image: volVII_Issue1_cover.jpg
-external_site: https://drive.google.com/file/d/1OxXHnwDwf8dA63YSpyd4iSORUFtCe4HY/view?usp=drive_link
+external_site: https://drive.google.com/file/d/1Zof7tRsl8ssNhysCytMxa_HBDT5qORDa/view?usp=sharing
 ---
 
 # WOAH, LOOKS LIKE YOU JUMPED THE GUN!
