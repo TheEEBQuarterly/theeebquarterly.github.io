@@ -3,6 +3,4 @@ layout: misc
 title: Contact
 ---
 
-For questions, comments, or requests about _The EEB Quarterly_, email Editor-in-Chief Vicki Zhang at vm.zhang@mail.utoronto.ca.
-
-For questions about this site, email Tyler Kent at tyler.kent@mail.utoronto.ca.
+For questions, comments, or requests regarding _The EEB Quarterly_, please email any of the Editors-in-Chief: Irtaqa Arif at irtaqa.arif[at]mail.utoronto.ca, Hannah Bodmer at hannah.bodmer[at]mail.utoronto.ca, or Sherry Du at s.du[at]mail.utoronto.ca.
