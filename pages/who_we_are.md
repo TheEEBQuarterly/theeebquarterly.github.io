@@ -3,8 +3,10 @@ layout: misc
 title: Who We Are
 ---
 
-## __Editor-in-chief__
-Ella Martin (ella.martin@mail.utoronto.ca)
+## __co-Editors-in-chief__
+Irtaqa Arif: irtaqa.arif[at]mail.utoronto.ca
+Hannah Bodmer: hannah.bodmer[at]mail.utoronto.ca
+Sherry Du: s.du[at]mail.utoronto.ca
 
 <br />
 
@@ -12,38 +14,48 @@ Ella Martin (ella.martin@mail.utoronto.ca)
 
 ### __Head Layout Editors__
 
-* Hannah Bodmer
-
+* Nicole Gutierrez Ramos and Haley Morris
 
 ### __Head Copy Editors__
 
-* Sherry Du
+* Hana Fahim
 
 ### __Head Newsletter Editors__
 
-* Irtaqa Arif
+* Nora Kroeger
 
 ### __Associate Editors__
 
-* Vicki Zhang †
-* Ellen Nikelski
-* Nicole Gutierrez Ramos
-* Candace Ma
-* Hayden Fargo
-* Grace Walker Mitchell
-* Samantha Ramphal
-* Maia Dall'Acqua
+* Zoë Kang
+* Savannah Burroughs
+* Cindy Yu
+* Sarah Babei
+* Rebecca Choi
+* Yash Kumar Singhal
+* Mai Bonomo
+* Christian Nakla
+* Kyra Ford
+* Simran Hansra
+* Abby Turner
 
 <br />
 
 ## __Webmaster__
 
-* Ella Martin
+* Hannah Bodmer
 
 <br />
 
 ## __Previous Editors__
 
+* Vicki Zhang †
+* Ella Martin†
+* Ellen Nikelski
+* Candace Ma
+* Hayden Fargo
+* Grace Walker Mitchell
+* Samantha Ramphal
+* Maia Dall'Acqua
 * Brett Sudden
 * Jaime Grimm
 * Madeline Jarvis-Cross
@@ -69,7 +81,7 @@ Ella Martin (ella.martin@mail.utoronto.ca)
 * Christopher Reid
 * James Santangelo
 * Juan Vargas Soto
-* Clara Thaysen †
+* Clara Thaysen†
 * Emma Walker
 * Adeena Zahid
 
