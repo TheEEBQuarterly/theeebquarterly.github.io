@@ -45,9 +45,9 @@ Finally, there is a bit more to science than standing in beautiful places. If yo
 
 ### __For Artists:__
 
-Our department is fortunate to have an unusual number of gifted artists. We will accept submissions of images on virtually any subject matter - it does not have to relate to nature or science. We simply want to showcase the talent and vision of department members. Please submit in RAW or jpeg format with highest resolution possible to vm.zhang@mail.utoronto.ca
+Our department is fortunate to have an unusual number of gifted artists. We will accept submissions of images on virtually any subject matter - it does not have to relate to nature or science. We simply want to showcase the talent and vision of department members. Please submit in RAW or jpeg format with highest resolution possible to Sherry Du (s.du[at]mail.utoronto.ca).
 
 
 ## __How to get involved as an editor__
 
-Interested students can sign on to volunteer as editors during the Fall EGSA meeting, or they can email the EIC at vm.zhang@mail.utoronto.ca.
+Interested students can sign on to volunteer by emailing any of the co-EICs: Irtaqa Arif (irtaqa.arif[at]mail.utoronto.ca), Hannah Bodmer (hannah.bodmer[at]mail.utoronto.ca), or Sherry Du (s.du[at]mail.utoronto.ca).
