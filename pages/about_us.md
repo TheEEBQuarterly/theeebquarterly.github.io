@@ -24,7 +24,7 @@ Throughout both sections, we highlight artwork and photography by EEB graduate s
 ## __Affiliation__
 
 We currently have no formal affiliation with the EEB department or with the Ecology and
-evolution Graduate Students Association (EGSA), though this may change in the future. We
+Evolution Graduate Students Association (EGSA), though this may change in the future. We
 want all students to feel represented by the Quarterly, but we don’t claim to represent the EEB
 student body in any technical manner.
 
